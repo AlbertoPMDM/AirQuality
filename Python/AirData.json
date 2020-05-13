@@ -1,0 +1,16 @@
+{
+    "airquality": {
+        "pm25": 70,
+        "pm10": 32,
+        "co": 11.2
+    },
+    "location": {
+        "coordinates": [
+            19.42461,
+            -99.119594
+        ],
+        "name": "Merced, M\u00e9xico, Mexico"
+    },
+    "time": "2020-05-11 15:00:00",
+    "timezone": "-05:00"
+}
