@@ -2,3 +2,4 @@ Arduino
 .vscode
 config.ini
 Python/AirData.json
+Python/PersonLimit.json
