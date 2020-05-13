@@ -12,9 +12,9 @@ config['Room Size'] = {
 
 config['Exposure Limits'] = {
     '# These are the recommended exposure limits for each contaminant': None,
-    'pm25': '0',
-    'pm10': '0',
-    'co': '0'
+    'pm25': '25',
+    'pm10': '50',
+    'co': '35'
 }
 with open("AirData.json") as file:
     data = json.load(file)
