@@ -34,7 +34,7 @@ config['Exposure Limits'] = {
     '# These are the recommended exposure limits for each contaminant (ug/m3 and ppm)': None,
     'pm25': '8.6',
     'pm10': '263',
-    'co': '0.4'
+    'co': '0.4',
     'co2': '500'
 }
 with open("AirData.json") as file:
