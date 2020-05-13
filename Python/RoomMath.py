@@ -1,4 +1,5 @@
 import configparser
+import json
 
 config = configparser.ConfigParser()
 
@@ -177,4 +178,67 @@ def RoomVol():
     vol = size[0] * size[1] * size[2]
     return vol
 
-print(AqiToUnit(53, 'pm25'))
+def RoomVolLiters():
+    vol = RoomVol()
+    liters = vol * 1000
+    return liters
+
+def getPm25():
+    aqipm25 = config.getfloat('Air Quality', 'pm25')
+    pm25 = AqiToUnit(aqipm25, 'pm25')
+    return pm25
+
+def getPm10():
+    aqipm10 = config.getfloat('Air Quality', 'pm10')
+    pm10 = AqiToUnit(aqipm10, 'pm10')
+    return pm10
+
+def getCo():
+    aqico = config.getfloat('Air Quality', 'co')
+    co = AqiToUnit(aqico, 'co')
+    return co
+
+def getCo2():
+    return 400
+
+def getIndividualPm25():
+    ug = 1.4
+    pm25_per_person = ug/RoomVol()
+    return round(pm25_per_person, 2)
+
+def getIndividualCo2():
+    mg = 700000
+    co_per_person =  mg/RoomVolLiters()
+    return round(co_per_person, 2)
+
+def getPm25Limit():
+    difference = config.getfloat('Exposure Limits', 'pm25') - getPm25()
+    if difference <= 0:
+        limit = 0
+    elif difference > 0:
+        limit = int(difference/getIndividualPm25())
+    return limit
+
+def getCo2Limit():
+    difference = config.getfloat('Exposure Limits', 'co2') - getCo2()
+    if difference <= 0:
+        limit = 0
+    elif difference > 0:
+        limit = int(difference/getIndividualCo2())
+    return limit
+
+def chooser():
+    if getCo2Limit() > getPm25Limit():
+        choice = getPm25Limit()
+    elif getPm25Limit() == getCo2Limit():
+        choice = getPm25Limit()
+    elif getCo2Limit() < getPm25Limit():
+        choice = getCo2Limit()
+    return choice
+
+limit = {'limit': str(chooser())}
+
+with open("PersonLimit.json", "w") as file:
+    json.dump(limit, file)
+
+print(limit)
