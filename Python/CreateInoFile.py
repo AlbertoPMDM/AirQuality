@@ -105,5 +105,5 @@ void loop(){
   Serial.println(tally());
 }
 '''
-with open("../tally.ino", "w") as file:
+with open("../tally/tally.ino", "w") as file:
     file.write(code)

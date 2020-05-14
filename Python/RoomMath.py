@@ -1,5 +1,4 @@
 import configparser
-import json
 
 config = configparser.ConfigParser()
 
@@ -237,7 +236,4 @@ def chooser():
     return choice
 
 limit = {'limit': str(chooser())}
-
-with open("PersonLimit.json", "w") as file:
-    json.dump(limit, file)
 
