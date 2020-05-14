@@ -2,7 +2,7 @@
 
 ## La calidad de aire y el COVID-19
 
-[![Coronavirus](https://imgur.com/xdJxEDR)](https://www.youtube.com/watch?v=E9sUpVQ4izY "Coronavirus")
+[![Coronavirus](https://i.imgur.com/xdJxEDR.png)](https://www.youtube.com/watch?v=E9sUpVQ4izY "Coronavirus")
 
 - Alberto Méndez
 - Aldo Hernández
@@ -28,7 +28,7 @@ Fabian, P., Brain, J., Houseman, E. A., Gern, J., & Milton, D. K. (2011, June). 
 
 ## Guía
 
-![Guía](https://imgur.com/WiEi9aE)(https://www.youtube.com/watch?v=E9sUpVQ4izY "Guía")
+[![Guía](https://i.imgur.com/WiEi9aE.png)](https://www.youtube.com/watch?v=E9sUpVQ4izY)
 
 ## Instalación
 
