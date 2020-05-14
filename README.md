@@ -28,7 +28,7 @@ Fabian, P., Brain, J., Houseman, E. A., Gern, J., & Milton, D. K. (2011, June). 
 
 ## Guía
 
-[![Guía](https://i.imgur.com/WiEi9aE.png)](https://www.youtube.com/watch?v=E9sUpVQ4izY)
+[![Guía](https://i.imgur.com/WiEi9aE.png)](https://www.youtube.com/watch?v=nTi1Hf_x19g)
 
 ## Instalación
 
