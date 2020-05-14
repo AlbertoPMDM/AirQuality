@@ -2,7 +2,7 @@
 
 ## La calidad de aire y el COVID-19
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E9sUpVQ4izY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Coronavirus](https://imgur.com/xdJxEDR)](https://www.youtube.com/watch?v=E9sUpVQ4izY "Coronavirus")
 
 - Alberto Méndez
 - Aldo Hernández
@@ -27,6 +27,8 @@ BBC (2020, April 28). How air pollution exacerbates Covid-19.Retrieved from <htt
 Fabian, P., Brain, J., Houseman, E. A., Gern, J., & Milton, D. K. (2011, June). Origin of exhaled breath particles from healthy and human rhinovirus-infected subjects. Retrieved from <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3123971/>
 
 ## Guía
+
+[![Guía](https://imgur.com/WiEi9aE)](https://www.youtube.com/watch?v=E9sUpVQ4izY "Guía")
 
 ## Instalación
 
