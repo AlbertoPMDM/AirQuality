@@ -83,3 +83,27 @@ Seguido de ésto se ejecuta **update.bat**, éste generará un directorio llamad
 - Un contador más confiable
 
 ## Impacto Personal
+
+### ¿Qué aprendí de la realización de la actividad?
+
+### ¿A qué dificultades me enfrenté al realizar este proyecto?
+
+### ¿De qué forma impacta mi solución al entorno?
+
+Esta solución implementa cambios en cómo nos desenvolvemos normalmente en lugares públicos como centros comerciales; normalmente no estamos acostumbrados a tener un límite de capacidad de población en un espacio, pero las situaciones actuales nos hacen tener que cambiar, y uno de estos cambios podría estar bien implementado en nuestra solución. A pesar de que estos cambios son un tanto drásticos, y cambian notablemente lo que hacíamos anteriormente, sin embargo, estos cambios bien implementados podrían evitar contagios y al mismo tiempo podríamos prevenir nuevas y peores enfermedades en un futuro.
+
+### ¿Qué me gusto y que no me gusto de la realización de mi proyecto?
+
+Durante la realización de este proyecto nos vimos involucrados en distintas etapas, en las cuales hubo altas y hubo bajas, pese a esto pudimos salir adelante. Hablando de que fue lo que nos agradó más, fue el poder buscar una solución que fuera simple y económica, además que fuera viable y realista, ya que de nada hubiera servido el proponer algo que no pudiera ser hecho, otra cosa que nos gusto mucho fue el poder conseguir una idea muy simple y que pudiéramos llevarla adelante, sin embargo no todo fue perfecto; lo que no nos gusto, fue la falta de comunicación y los tiempos que nos dimos a nosotros mismos, ya que haciamos todo en el último minuto.
+
+### ¿De qué me sirve este proyecto en mi vida personal?
+
+El desarrollo de este proyecto nos ha ayudado a darnos cuenta de la necesidad de buscar soluciones durante los momentos que más se requiere, en este caso el de la crisis sobre el coronavirus. Nos ayudó a realizar un proyecto que no solo nos beneficia a nosotros, sino que puede generar un cambio e impacto en nuestra sociedad para el bien de la comunidad.
+
+### ¿A quien beneficia este proyecto?
+
+Este proyecto no solo beneficia a unos cuantos, nos beneficia a todos. Beneficia a los mercados locales, los espacios recreativos y educativos, las empresas y trabajos. Nos beneficia a todos, porque somos una comunidad colectiva, nos es difícil vivir apartados los unos de los otros. Por eso, al momento de realizar este proyecto, pensamos en cada uno de nosotros, cada miembro de nuestra sociedad, para poder crear un impacto positivo para nuestra comunidad.
+
+### ¿Qué habilidades se desarrollan en mí con este proyecto?
+
+### ¿Cómo me ayudó esta actividad a utilizar mis habilidades creativas y lógicas?
