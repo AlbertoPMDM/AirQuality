@@ -1,4 +1,4 @@
-# Acrividad Eje
+# Actividad Eje
 
 ## La calidad de aire y el COVID-19
 
