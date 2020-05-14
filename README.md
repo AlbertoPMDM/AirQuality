@@ -84,9 +84,15 @@ Seguido de ésto se ejecuta **update.bat**, éste generará un directorio llamad
 
 ## Impacto Personal
 
+Que no sería facil poder tener el conteo de la población sin sensores que nos ayuden.
+
 ### ¿Qué aprendí de la realización de la actividad?
 
+Aprendí que la falta de espacio en un lugar puede de alguna manera provocar la propagación de diferentes virus.
+
 ### ¿A qué dificultades me enfrenté al realizar este proyecto?
+
+La vision y el análisis de los los posibles factores o funciones que se puede tomar
 
 ### ¿De qué forma impacta mi solución al entorno?
 
@@ -106,4 +112,8 @@ Este proyecto no solo beneficia a unos cuantos, nos beneficia a todos. Beneficia
 
 ### ¿Qué habilidades se desarrollan en mí con este proyecto?
 
+La vision y el análisis de los los posibles factores o funciones que se puede tomar
+
 ### ¿Cómo me ayudó esta actividad a utilizar mis habilidades creativas y lógicas?
+
+Analizando el funcionamiento de los sensores
