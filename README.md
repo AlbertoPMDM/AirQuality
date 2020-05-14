@@ -2,10 +2,12 @@
 
 ## La calidad de aire y el COVID-19
 
-Alberto Méndez
-Aldo Hernández
-Benjamín Barraza
-Jorge Márquez
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E9sUpVQ4izY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- Alberto Méndez
+- Aldo Hernández
+- Benjamín Barraza
+- Jorge Márquez
 
 Para encontrar nuestra idea, comenzamos tomando en cuenta la problemática más notable actual, el coronavirus, y tratamos de pensar en un aspecto que no fuera tan notable, pero aún así influyera en el problema, como es la calidad del aire que respira un enfermo. (BBC, 2020.). En facilidades médicas, quizá si se pueda tener un control estricto sobre la cantidad de partículas de aire y la composición, pero es muy costoso el equipo, por lo tanto, decidimos tratar de resolver el problema de una manera un poco más simple.
 
@@ -24,6 +26,8 @@ European Public Health Alliance. (2020). Coronavirus threat greater for polluted
 BBC (2020, April 28). How air pollution exacerbates Covid-19.Retrieved from <https://www.bbc.com/future/article/20200427-how-air-pollution-exacerbates-covid-19>
 Fabian, P., Brain, J., Houseman, E. A., Gern, J., & Milton, D. K. (2011, June). Origin of exhaled breath particles from healthy and human rhinovirus-infected subjects. Retrieved from <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3123971/>
 
+## Guía
+
 ## Instalación
 
 Solo se requiere que se descargue o clone el proyecto a algún directorio del ordenador
@@ -38,13 +42,13 @@ De igual manera se exponen otros datos, como los límites de exposición, la cal
 
 ### Mantenimiento
 
-Seguido de ésto se ejecuta **update.bat**, éste generará un directorio llamado **tally** en donde se encontrará **tally.ino***. Se abre el programa y se carga a la placa.
+Seguido de ésto se ejecuta **update.bat**, éste generará un directorio llamado **tally** en donde se encontrará **tally.ino**. Se abre el programa y se carga a la placa.
 
 >Se recomienda ejecutar el proceso de mantenimiento cada hora como mínimo, para asegurarse de tener los datos más recientes.
 
 ### Recomendaciones y limitaciones
 
-- El programa utiliza datos de localización proveídos por el ip, por lo tanto no siempre tiene la localización correcta; si en **config.ini** no aparece tu ciudad, se recomienda que entres a [ésta página](https://waqi.info/) y actualices los datos bajo el campo de *Air Quality* por tu cuenta, y luego ejecutes.**ManualUpdate.bat**.
+- El programa utiliza datos de localización proveídos por el ip, por lo tanto no siempre tiene la localización correcta; si en **config.ini** no aparece tu ciudad, se recomienda que entres a [ésta página](https://waqi.info/) y actualices los datos bajo el campo de *Air Quality* por tu cuenta, y luego ejecutes **ManualUpdate.bat**.
 
 - De igual manera, se recomienda no utilizar la puerta con el sensor, ya que éste se podría confundir.
 
@@ -69,9 +73,11 @@ Seguido de ésto se ejecuta **update.bat**, éste generará un directorio llamad
 >long pulse;
 >```
 
-- Si conoces el código de arduino, entonces quizá sepas conectarlo, de otra manera refiere a [ésta página](https://www.tinkercad.com/things/g2BWiqrGhbB ) para averiguar las conexiones y probar el código.
+- Si conoces el código de arduino, entonces quizá sepas conectarlo, de otra manera refiere a [ésta página de Tinkercad](https://www.tinkercad.com/things/g2BWiqrGhbB ) para averiguar las conexiones y probar el código.
 
 ## Implementaciones futuras
 
 - Uso de la localización gps para poder proveer datos más precisos.
 - Un contador más confiable
+
+## Impacto Personal
